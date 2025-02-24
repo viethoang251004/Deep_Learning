@@ -1,0 +1,2 @@
+THUCHANH/FINAL_PROJECT/model.safetensors filter=lfs diff=lfs merge=lfs -text
+THUCHANH/archive/archive.zip filter=lfs diff=lfs merge=lfs -text
